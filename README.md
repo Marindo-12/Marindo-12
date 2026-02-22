@@ -18,128 +18,24 @@ Focused on scalable multi-role systems, AI-powered platforms, and modern fronten
 
 # ⚙️ Core Technologies
 
-## Frontend
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react" height="70" /><br/>
-<b>React 18 / 19</b>
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,threejs" />
 
-<br/><br/>
+### Backend
+<img src="https://skillicons.dev/icons?i=laravel,php,flask,express" />
 
-<img src="https://skillicons.dev/icons?i=ts" height="70" /><br/>
-<b>TypeScript</b>
+### AI & Data
+<img src="https://skillicons.dev/icons?i=python,mysql,sqlite" />
+<br/>
+<img src="https://cdn.simpleicons.org/opencv/white" height="48" />
+<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="48" />
 
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=js" height="70" /><br/>
-<b>JavaScript</b>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=tailwind" height="70" /><br/>
-<b>TailwindCSS</b>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=vite" height="70" /><br/>
-<b>Vite</b>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=threejs" height="70" /><br/>
-<b>three.js</b>
-
-<br/><br/>
-
-<img src="https://cdn.simpleicons.org/greensock/88CE02" height="70" /><br/>
-<b>GSAP</b>
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,firebase,vscode" />
 
 </div>
-
----
-
-## Backend
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=laravel" height="70" /><br/>
-<b>Laravel 12</b>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=php" height="70" /><br/>
-<b>PHP 8.2+</b>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=flask" height="70" /><br/>
-<b>Flask</b>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=express" height="70" /><br/>
-<b>Express.js</b>
-
-</div>
-
----
-
-## AI & Data
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python" height="70" /><br/>
-<b>Python</b>
-
-<br/><br/>
-
-<img src="https://cdn.simpleicons.org/opencv/white" height="70" /><br/>
-<b>OpenCV</b>
-
-<br/><br/>
-
-<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="70" /><br/>
-<b>Deep Learning / AI</b>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=mysql" height="70" /><br/>
-<b>MySQL</b>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=sqlite" height="70" /><br/>
-<b>SQLite</b>
-
-</div>
-
----
-
-## DevOps & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git" height="70" /><br/>
-<b>Git</b>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=github" height="70" /><br/>
-<b>GitHub</b>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=firebase" height="70" /><br/>
-<b>Firebase</b>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=vscode" height="70" /><br/>
-<b>VS Code</b>
-
-</div>
-
 ---
 
 # 🚀 Projects
@@ -158,13 +54,19 @@ Modular Vanilla JavaScript CRUD application with OOP structure and local persist
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Marindo-12&show_icons=true&theme=dark&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Marindo-12&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
 
-<img src="https://streak-stats.demolab.com?user=Marindo-12&theme=dark&hide_border=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=Marindo-12&theme=radical&hide_border=true" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Marindo-12&theme=github-compact&hide_border=true"/>
 
 </div>
 
