@@ -1,137 +1,103 @@
-<div align="center">
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Marindo&fontSize=40&fontColor=ffffff&animation=fadeIn)](https://github.com/Marindo-12)
 
-# MARINDO
+# Hello, I'm Marindo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-Full-Stack Developer • Applied AI • Interactive Web Engineering
+Full-Stack Developer focused on modern web platforms, applied AI systems, and interactive web engineering.
 
-</div>
+Based in Morocco.  
+Currently building structured multi-role platforms and AI-powered attendance systems.
 
----
-
-## About
-
-I design and build structured full-stack systems combining modern frontend architecture, robust backend workflows, and applied AI solutions.
-
-My work spans developer platforms, academic analytics systems, and real-time facial recognition applications — with strong focus on clean architecture and scalability.
+You can explore my work here on GitHub or connect via LinkedIn.
 
 ---
 
-## Tech Stack
+## 🔧 Technologies & Tools
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,laravel,php,python,flask,express,mysql,sqlite,tailwind,git" />
-
-</div>
-
-**Frontend**  
-React 18 / 19 • TypeScript • Inertia.js • Vite • TailwindCSS • Sass • GSAP • three.js  
-
-**Backend**  
-Laravel 12 • Express.js • Flask • REST APIs • Role-based authentication  
-
-**AI & Data**  
-DeepFace • OpenCV • SQLite • MySQL • Chart.js • Recharts  
+![](https://img.shields.io/badge/Frontend-React_18_/_19-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Backend-Laravel_12-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Backend-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Backend-Express-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/AI-DeepFace-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Styling-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Animation-GSAP-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/3D-three.js-informational?style=flat&logo=three.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Deployment-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Version_Control-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
 ---
 
-# Featured Systems
+## 🚀 Featured Projects
 
-## Devoria — Developer Community Platform
+### Devoria
+Web platform connecting clients with developers and development communities.
 
-A scalable web platform connecting clients with developers and communities.
-
-**Core Architecture**
-- React 19 + TypeScript frontend
+- React 19 + TypeScript architecture
 - Express local API
-- JSON-based comment storage
-- Firebase SPA deployment
-- Multilingual (EN / FR / AR)
-
-**Key Capabilities**
+- Multilingual interface (EN / FR / AR)
 - Developer discovery & project browsing
-- Profile pages with review system
-- Service request workflow
-- Community sections
+- Review system & service request workflow
+- Firebase SPA deployment
 
 ---
 
-## Eduvis — Academic Analytics Platform
+### Eduvis
+Laravel + Inertia + React attendance analytics platform.
 
-Full-stack attendance and academic monitoring system.
-
-**Stack**
-Laravel 12 • Inertia.js • React 18 • MySQL / SQLite • Chart.js
-
-**System Features**
 - Role-based authentication (Student / Professor / Admin)
-- Attendance analytics dashboard
-- Data-driven charts
-- Professor directory
-- Profile & settings management
-
-Demonstrates production-level Laravel + React integration.
+- Academic dashboard with charts
+- Attendance tracking system
+- Database-driven architecture
+- Integrated data visualization (Chart.js, Recharts)
 
 ---
 
-## AI Attendance System — Facial Recognition
+### AI Face Recognition Attendance System
 
-Role-based attendance system powered by real-time facial recognition.
+Flask-based role system powered by DeepFace.
 
-**Stack**
-Flask • DeepFace • OpenCV • SQLite
-
-**Capabilities**
-- Professor dashboard (session control + capture)
-- Student attendance status
-- Real-time recognition from webcam
-- Persistent attendance storage
-
-AI inference integrated with structured backend logic.
+- Real-time webcam capture
+- Student identification via AI inference
+- SQLite attendance database
+- Professor session control dashboard
+- Student attendance status tracking
 
 ---
 
-## Interactive Web Engineering
+### Interactive Engineering Projects
 
-Advanced UI motion and 3D interaction projects using:
-
-- GSAP timeline systems
-- Scroll-driven animation pipelines
+- Advanced GSAP animation pipelines
+- Scroll-driven motion systems
 - three.js 3D rendering environments
-- Performance-optimized animation architecture
+- Performance-optimized frontend interactions
 
 ---
 
-# GitHub Activity
+## 📈 GitHub Stats
 
-<div align="center">
+<a href="https://github.com/Marindo-12">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marindo-12&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Marindo-12&show_icons=true&hide_border=true&theme=transparent" height="150"/>
-
-<img src="https://streak-stats.demolab.com?user=Marindo-12&hide_border=true&theme=transparent" height="150"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Marindo-12&theme=github-compact&hide_border=true"/>
-
-</div>
+<a href="https://github.com/Marindo-12">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Marindo-12&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 ---
 
-# Engineering Direction
+## 🎯 Engineering Focus
 
-- System architecture refinement  
+- Clean system architecture  
+- Multi-role platform design  
 - AI + Web integration  
-- Scalable multi-role platforms  
-- Advanced frontend animation systems  
-- Production deployment workflows  
+- Scalable frontend structure  
+- Data-driven dashboards  
+- Interactive web performance  
 
 ---
-
-<div align="center">
 
 Open to software engineering internships and collaborative technical projects.
-
-</div>
