@@ -25,15 +25,15 @@ Focused on scalable multi-role systems, AI-powered platforms, and modern fronten
 <img src="https://cdn.simpleicons.org/greensock/88CE02" height="70" /><br/>
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=laravel,php,express" />
+<img src="https://skillicons.dev/icons?i=laravel,php,express,spring,java" />
 
 ### AI & Data
-<img src="https://skillicons.dev/icons?i=python,mysql,sqlite,postgres" />
+<img src="https://skillicons.dev/icons?i=python,mysql,sqlite,postgres,mongodb" />
 
 <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="48" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,firebase,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,firebase,vscode,vercel" />
 
 </div>
 ---
