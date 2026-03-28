@@ -71,20 +71,21 @@ Modular Vanilla JavaScript CRUD application with object-oriented structure.
 </p>
 
 ---
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Marindo-12&theme=radical&hide_border=true" height="170"/>
-
-</div>
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Marindo-12&theme=github-compact&hide_border=true"/>
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marindo-12&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marindo-12&layout=compact&theme=radical&hide_border=true&bg_color=0D1117) |
+| --- | --- |
+
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Marindo-12&theme=radical&hide_border=true&background=0D1117) | ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marindo-12&theme=radical) |
+| --- | --- |
 
 </div>
+
+### 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Marindo-12&theme=github-compact&hide_border=true&bg_color=0D1117&color=15803D&line=15803D&point=FFFFFF&area=true)
 
 ---
 
