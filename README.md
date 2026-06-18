@@ -48,7 +48,7 @@ Currently working on projects that merge clean engineering with real-world impac
 <tr>
 <td width="50%" valign="top">
 
-### <svg xmlns="http://www.w3.org/2000/svg" width="300" height="35" viewBox="0 0 300 35"><defs><style>@import url('https://fonts.googleapis.com/css2?family=Shrikhand&amp;display=swap'); text { font-family: 'Shrikhand', cursive; font-size: 24px; fill: #3b82f6; }</style></defs><text x="0" y="27">DEVORIA</text></svg>
+### ***DEVORIA***
 **Multilingual developer–client platform**
 
 A full-featured marketplace connecting developers with clients — includes developer discovery, profile pages, project browsing, reviews/comments, service request flows, and community pages.
@@ -66,7 +66,7 @@ A full-featured marketplace connecting developers with clients — includes deve
 </td>
 <td width="50%" valign="top">
 
-### <svg xmlns="http://www.w3.org/2000/svg" width="200" height="35" viewBox="0 0 200 35"><defs><style>@import url('https://fonts.googleapis.com/css2?family=Shrikhand&amp;display=swap'); text { font-family: 'Shrikhand', cursive; font-size: 24px; fill: #3b82f6; }</style></defs><text x="0" y="27">EDUVIS</text></svg>
+### ***EDUVIS***
 **Full-stack student management platform**
 
 Attendance analytics system with multi-role dashboards (admin, teacher, student), quiz & exercise modules, and data visualization — built with Laravel 12 and a React/Vite frontend, with an optional Python AI module.
@@ -84,7 +84,7 @@ Attendance analytics system with multi-role dashboards (admin, teacher, student)
 <tr>
 <td width="50%" valign="top">
 
-### <svg xmlns="http://www.w3.org/2000/svg" width="500" height="35" viewBox="0 0 500 35"><defs><style>@import url('https://fonts.googleapis.com/css2?family=Shrikhand&amp;display=swap'); text { font-family: 'Shrikhand', cursive; font-size: 24px; fill: #3b82f6; }</style></defs><text x="0" y="27">AI ATTENDANCE SYSTEM</text></svg>
+### ***AI ATTENDANCE SYSTEM***
 **Facial recognition attendance tracker**
 
 Flask-based system using computer vision for real-time student attendance detection and tracking via AI camera recognition.
@@ -97,7 +97,7 @@ Flask-based system using computer vision for real-time student attendance detect
 </td>
 <td width="50%" valign="top">
 
-### <svg xmlns="http://www.w3.org/2000/svg" width="400" height="35" viewBox="0 0 400 35"><defs><style>@import url('https://fonts.googleapis.com/css2?family=Shrikhand&amp;display=swap'); text { font-family: 'Shrikhand', cursive; font-size: 24px; fill: #3b82f6; }</style></defs><text x="0" y="27">TAFSIR WORDS API</text></svg>
+### ***TAFSIR WORDS API***
 **Quranic word analysis API**
 
 A TypeScript API for exploring and analyzing Quranic word meanings and tafsir data.
@@ -110,7 +110,7 @@ A TypeScript API for exploring and analyzing Quranic word meanings and tafsir da
 <tr>
 <td width="50%" valign="top">
 
-### <svg xmlns="http://www.w3.org/2000/svg" width="150" height="35" viewBox="0 0 150 35"><defs><style>@import url('https://fonts.googleapis.com/css2?family=Shrikhand&amp;display=swap'); text { font-family: 'Shrikhand', cursive; font-size: 24px; fill: #3b82f6; }</style></defs><text x="0" y="27">HAFID</text></svg>
+### ***HAFID***
 **Quranic exploration platform**
 
 A full-featured platform for studying Quranic text, Hizb divisions, and Islamic knowledge — combining a Laravel API backend with an immersive React frontend featuring 3D visualizations, smooth animations, and multi-language support.
@@ -126,7 +126,7 @@ A full-featured platform for studying Quranic text, Hizb divisions, and Islamic 
 </td>
 <td width="50%" valign="top">
 
-### <svg xmlns="http://www.w3.org/2000/svg" width="450" height="35" viewBox="0 0 450 35"><defs><style>@import url('https://fonts.googleapis.com/css2?family=Shrikhand&amp;display=swap'); text { font-family: 'Shrikhand', cursive; font-size: 24px; fill: #3b82f6; }</style></defs><text x="0" y="27">QADA PRAYER TRACKER</text></svg>
+### ***QADA PRAYER TRACKER***
 **Islamic missed-prayer mobile app**
 
 A privacy-first Arabic mobile app helping Muslims track and gradually complete their missed (Qada) prayers — with a personalized plan, daily logging, heatmap calendar, streak tracking, and a built-in Islamic legal guide (دليل شرعي).
@@ -141,10 +141,10 @@ A privacy-first Arabic mobile app helping Muslims track and gradually complete t
 <tr>
 <td width="50%" valign="top">
 
-### <svg xmlns="http://www.w3.org/2000/svg" width="120" height="35" viewBox="0 0 120 35"><defs><style>@import url('https://fonts.googleapis.com/css2?family=Shrikhand&amp;display=swap'); text { font-family: 'Shrikhand', cursive; font-size: 24px; fill: #3b82f6; }</style></defs><text x="0" y="27">INFOS</text></svg>
+### ***INFOS***
 **Enterprise information system dashboard**
 
-A full-stack platform for building and managing custom dashboards — with Google OAuth, Payzone payments, PDF export, interactive charts, and Docker-based PostgreSQL. Deployed on Railway.
+A full-stack platform for building and managing custom dashboards — with Google OAuth, PDF export, interactive charts, and Docker-based PostgreSQL. Deployed on Railway.
 
 ![Laravel](https://img.shields.io/badge/Laravel_13-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -159,7 +159,7 @@ A full-stack platform for building and managing custom dashboards — with Googl
 </td>
 <td width="50%" valign="top">
 
-### <svg xmlns="http://www.w3.org/2000/svg" width="400" height="35" viewBox="0 0 400 35"><defs><style>@import url('https://fonts.googleapis.com/css2?family=Shrikhand&amp;display=swap'); text { font-family: 'Shrikhand', cursive; font-size: 24px; fill: #3b82f6; }</style></defs><text x="0" y="27">GSAP APPLE CLONE</text></svg>
+### ***GSAP APPLE CLONE***
 **Interactive 3D product experience**
 
 A high-fidelity Apple iPhone landing page clone built with GSAP animations and Three.js 3D rendering — focused on scroll-driven storytelling and interactive product views.
