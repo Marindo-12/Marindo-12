@@ -179,9 +179,6 @@ A high-fidelity Apple iPhone landing page clone built with GSAP animations and T
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Marindo-12&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marindo-12&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="165" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Marindo-12&theme=radical&hide_border=true&background=0D1117" height="165" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marindo-12&theme=radical" height="165" />
 
