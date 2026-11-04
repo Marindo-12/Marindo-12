@@ -29,9 +29,9 @@ Currently working on projects that merge clean engineering with real-world impac
 
 <img src="https://skillicons.dev/icons?i=laravel,php,express,spring,java" />
 
-**AI & Data**
+**AI & Data & Automation**
 
-<img src="https://skillicons.dev/icons?i=python,mysql,sqlite,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=python,mysql,sqlite,postgres,mongodb,n8n" />
 
 **Tools**
 
