@@ -29,9 +29,14 @@ Currently working on projects that merge clean engineering with real-world impac
 
 <img src="https://skillicons.dev/icons?i=laravel,php,express,spring,java" />
 
-**AI & Data & Automation**
+### AI & Data
 
-<img src="https://skillicons.dev/icons?i=python,mysql,sqlite,postgres,mongodb,n8n" />
+<img src="https://skillicons.dev/icons?i=python,mysql,sqlite,postgres,mongodb" />
+
+### Automation
+
+<img src="https://img.shields.io/badge/n8n-%23EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+
 
 **Tools**
 
